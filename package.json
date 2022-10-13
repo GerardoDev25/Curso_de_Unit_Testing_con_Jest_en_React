@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/platzi-store.git"
+    "url": "git+https://github.com/GerardoDev25/Curso_de_Unit_Testing_con_Jest_en_React.git"
   },
   "keywords": [
     "React",
@@ -23,7 +23,7 @@
     "React-router",
     "Redux"
   ],
-  "author": "Oscar Barajas <oscar@arepa.dev>",
+  "author": "Gerardo Miranda <gerardodev25@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.7.2",
